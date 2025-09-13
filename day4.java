@@ -1,4 +1,4 @@
-public class day4 {
+public class Day4 {
     public static void main(String[] args) {
         // kode \t menambah spasi
         System.out.println("nama :\tAdii");

@@ -9,7 +9,7 @@ public class Day12 {
 
     System.out.print("Umur berapa : ");
     int umur = scanner.nextInt();
-    scanner.nextLine(); // Clear the buffer after nextInt()
+    scanner.nextLine(); 
 
     System.out.print("Domisili mana : ");
     String alamat = scanner.nextLine();
